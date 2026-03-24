@@ -1,0 +1,2 @@
+# AI-IoT-Driven-Real-Time-Air-Pollution-Monitoring-and-Mapping-for-Sustainable-Urban-Planning
+Air pollution threatens public health and urban sustainability due to urbanization, industry, traffic, and poor waste management. This study presents an AI-IoT real-time monitoring and mapping system using ML models and a stacked ensemble predict pollution, compute AQI, issue alerts, optimize routes, and support smart urban planning.
