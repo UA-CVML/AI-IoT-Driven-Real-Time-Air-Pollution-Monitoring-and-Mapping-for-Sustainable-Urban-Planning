@@ -41,7 +41,7 @@ safe thresholds.<br>
 visualization, and decision support to enhance urban air
 quality sustainability.<br>
 
-System Architecture
+**System Architecture:**
 
 The proposed system consists of four main layers:
 
