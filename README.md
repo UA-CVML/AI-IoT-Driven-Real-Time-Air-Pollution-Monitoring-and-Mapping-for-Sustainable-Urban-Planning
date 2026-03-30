@@ -44,6 +44,7 @@ quality sustainability.<br>
 **System Architecture:**
 
 The proposed system consists of four main layers:
+![image alt](https://github.com/UA-CVML/AI-IoT-Driven-Real-Time-Air-Pollution-Monitoring-and-Mapping-for-Sustainable-Urban-Planning/blob/main/architec%20(1).png)
 
 Data Collection Layer:
 IoT sensors continuously collect environmental data including particulate matter and gas concentrations.
