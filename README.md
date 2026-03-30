@@ -29,17 +29,17 @@ Air pollution has become a major challenge affecting human health, environmental
 The main objectives of this project are:
 
 • A stacked ensemble learning approach that improves the
-accuracy and robustness of air quality predictions.
+accuracy and robustness of air quality predictions.<br>
 • Integration of IoT sensors and machine learning to
 monitor and predict real-time air pollution levels across
 standard health categories (Good, Hazardous, Moderate,
-Unhealthy, etc.).
+Unhealthy, etc.).<br>
 • A dynamic pollution mapping interface with color-coded
 visuals and mobile/web alerts when pollution exceeds
-safe thresholds.
+safe thresholds.<br>
 • A unified cloud platform for data collection, analysis,
 visualization, and decision support to enhance urban air
-quality sustainability.
+quality sustainability.<br>
 
 System Architecture
 
