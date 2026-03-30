@@ -46,36 +46,31 @@ quality sustainability.<br>
 The proposed system consists of four main layers:
 ![image alt](https://github.com/UA-CVML/AI-IoT-Driven-Real-Time-Air-Pollution-Monitoring-and-Mapping-for-Sustainable-Urban-Planning/blob/main/architec%20(1).png)
 
-Data Collection Layer:
+**Data Collection Layer**:
 IoT sensors continuously collect environmental data including particulate matter and gas concentrations.
 
-Data Transmission Layer:
+**Data Transmission Layer:**
 Sensor data is transmitted to a cloud platform using wireless communication protocols.
 
-Data Processing Layer:
+**Data Processing Layer:**
 Machine learning algorithms process the collected data for prediction and analysis.
 
-Application Layer:
+**Application Layer:**
 A mobile and web interface provides visualization, AQI status, alerts,route recommendations, waste management panel.
 
-Methodology
+**Methodology**
 
-Data Acquisition
+**Data Acquisition:** Environmental data is collected from IoT sensor nodes and public air quality datasets.
 
-Environmental data is collected from IoT sensor nodes and public air quality datasets.
+**Data Preprocessing:** Data cleaning, normalization, and feature engineering are performed to improve model performance.
 
-Data Preprocessing
-
-Data cleaning, normalization, and feature engineering are performed to improve model performance.
-
-Machine Learning Models
-
+**Machine Learning Models:**
 The study evaluates several supervised learning algorithms:
  Random Forest, XGBoost, CatBoost, Gradient Boosting, Support Vector Machine (SVM)
 
 A stacked ensemble model is proposed to combine the strengths of individual models.
 
-Model Evaluation
+**Model Evaluation**
 
 Models are evaluated using cross-validation techniques. The stacked ensemble achieved the best performance with 98.73% (±0.21%) accuracy.
 
