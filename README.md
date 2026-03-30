@@ -18,13 +18,13 @@ IoT-enabled waste monitoring ensure timely waste collection, reducing emissions 
 urban planning. Together, these capabilities form an integrated, data-driven framework for improving urban air quality and
 enabling evidence-based smart city planning.
 ![image alt](https://github.com/UA-CVML/AI-IoT-Driven-Real-Time-Air-Pollution-Monitoring-and-Mapping-for-Sustainable-Urban-Planning/blob/main/abstract%20(1).png)
-Air pollution threatens public health and urban sustainability due to urbanization, industry, traffic, and poor waste management. This study presents an AI-IoT real-time monitoring and mapping system using ML models and a stacked ensemble predict pollution, compute AQI, issue alerts, optimize routes, and support smart urban planning.
 
-Project Overview
+
+**Project Overview:**
 
 Air pollution has become a major challenge affecting human health, environmental sustainability, and urban development. Rapid urbanization, industrial emissions, transportation, and poor waste management significantly contribute to deteriorating air quality. This project proposes an AI-IoT driven real-time air pollution monitoring and mapping system designed to support sustainable urban planning through data-driven decision making.
 
-Project Objectives
+**Project Objectives:**
 
 The main objectives of this project are:
 
