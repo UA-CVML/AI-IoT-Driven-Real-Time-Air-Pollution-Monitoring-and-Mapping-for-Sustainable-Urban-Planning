@@ -74,6 +74,7 @@ A stacked ensemble model is proposed to combine the strengths of individual mode
 ![image alt](https://github.com/UA-CVML/AI-IoT-Driven-Real-Time-Air-Pollution-Monitoring-and-Mapping-for-Sustainable-Urban-Planning/blob/main/Stack.jpg)
 
 **Model Evaluation**
+![image alt](https://github.com/UA-CVML/AI-IoT-Driven-Real-Time-Air-Pollution-Monitoring-and-Mapping-for-Sustainable-Urban-Planning/blob/main/multiclass_model_comparison_barchart%20(1)%20(1).png)
 
 Models are evaluated using cross-validation techniques. The stacked ensemble achieved the best performance with 98.73% (±0.21%) accuracy.
 
