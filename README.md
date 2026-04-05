@@ -75,8 +75,12 @@ A stacked ensemble model is proposed to combine the strengths of individual mode
 
 **Model Evaluation**
 ![image alt](https://github.com/UA-CVML/AI-IoT-Driven-Real-Time-Air-Pollution-Monitoring-and-Mapping-for-Sustainable-Urban-Planning/blob/main/result.png)
-
-Models are evaluated using cross-validation techniques. The stacked ensemble achieved the best performance with 98.73% (±0.21%) accuracy.
+Left figure compares Accuracy, Precision, Recall, and F1-Score for multiclass AQI prediction across all models. All achieved values above 0.97, indicating reliable performance.Among base learners, Gradient Boosting showed the best bal-
+ance (0.986 across all metrics), followed closely by XGBoost and CatBoost, while Random Forest remained competitive. The proposed stacked ensemble outperformed all models, achieving the highest scores (Accuracy 0.988, Precision 0.989, Recall 0.988, F1 0.988). This balanced improvement highlights effective bias–variance reduction and confirms the suitability of stacked ensembles for stable, practical air quality monitor-ing.<br>
+Right figure compares multiclass and binary AQI prediction accuracies of all models. Blue bars show multiclass accuracy
+across six AQI categories, while orange bars represent bi-nary Safe–Harmful accuracy. Among base learners, Gradient
+Boosting achieved the highest multiclass accuracy (98.62%), followed by XGBoost (98.33%), CatBoost (98.18%), and
+Random Forest (97.71%). The proposed stacked ensemble outperformed all models, reaching 98.83% multiclass and 99.85% binary accuracy. All models performed better in binary tasks, indicating lower complexity in Safe–Harmful classifica-tion. High binary accuracies (99.42%–99.85%) confirm strong detection of harmful conditions. The ensemble’s superior performance demonstrates robust generalization by effectively capturing nonlinear pollutant interactions and temporal air quality variations.
 
 **Key Features of the System**
 
