@@ -1,1 +1,71 @@
+AI-IoT Air Pollution Monitoring Project and Dataset License
+
+Copyright (c) 2026 University at Albany, State University of New York (SUNY), UA-CVML Lab
+
+The AI-IoT Driven Real-Time Air Pollution Monitoring and Mapping for Sustainable Urban Planning project, including its associated datasets, source code, models, documentation, and derived materials (collectively referred to as the “Project”), is made available for lawful research and educational purposes. By downloading, accessing, or using any part of this Project, the user, hereinafter referred to as the “LICENSEE,” agrees to the following terms and conditions:
+
+TERMS AND CONDITIONS
+
+1. The LICENSEE agrees to use the Project solely for lawful research, educational, and scholarly purposes.
+
+2. The LICENSEE shall not use the Project for any unlawful purpose or for any activity that could cause harm, environmental misinterpretation, policy misuse, or public misinformation.
+
+3. The LICENSEE shall not use the Project for commercial purposes without prior written permission from the UA-CVML Lab.
+
+4. The LICENSEE shall not redistribute, resell, sublicense, mirror, or otherwise share the dataset or complete project resources, in whole or in part, without explicit permission from the Project maintainers.
+
+5. The LICENSEE may use the provided source code for research experimentation and reproducibility purposes but must retain this license and copyright notice in any derivative work.
+
+6. The LICENSEE agrees not to manipulate, falsify, or intentionally misrepresent environmental data or model outputs generated from this Project.
+
+7. The LICENSEE shall exercise reasonable data security practices to protect local copies of the dataset and prevent unauthorized access.
+
+8. If the LICENSEE discovers errors, sensitive information, anomalies, or data inconsistencies, they agree to report them promptly to the maintainers at:
+
+[uacvmllab@gmail.com](mailto:uacvmllab@gmail.com)
+
+9. The LICENSEE agrees to properly cite this Project and any associated publications in any of the following outputs:
+
+• Journal publications
+• Conference papers
+• Workshop papers
+• Technical reports
+• Theses and dissertations
+• Software repositories
+• Public datasets
+• Benchmark studies
+
+10. If the LICENSEE develops models, benchmarks, or software derived from this Project, they are encouraged to make such contributions publicly available to support open scientific research and reproducibility.
+
+11. The LICENSEE understands that this Project is intended strictly for research and urban planning study purposes and is not intended to function as:
+
+• An official environmental monitoring authority
+• A regulatory compliance system
+• A medical or health advisory system
+• A safety-critical infrastructure system
+• A governmental decision system without validation
+
+12. The LICENSEE agrees not to use this Project in any real-world deployment without independent validation and regulatory approval where required.
+
+13. This License may be terminated at any time if these terms are violated. Upon termination, the LICENSEE must discontinue use of the Project and destroy local copies if requested.
+
+14. The obligations regarding citation, data protection, and non-redistribution shall survive termination of this License.
+
+CITATION REQUIREMENT
+
+Any research work using this Project must cite the associated publication(s) and dataset. A recommended citation format will be provided in the project repository.
+
+DISCLAIMER
+
+THE PROJECT AND DATASET ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, OR NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE UNIVERSITY AT ALBANY, UA-CVML LAB, THE AUTHORS, RESEARCHERS, OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE PROJECT OR THE USE OR OTHER DEALINGS IN THE PROJECT.
+
+The Project does not guarantee accuracy of pollution measurements and should not be used as the sole basis for environmental policy, health decisions, or regulatory enforcement.
+
+CONTACT
+
+UA-Computer Vision and Machine Learning Lab (CVML Lab)
+University at Albany, SUNY
+
 
